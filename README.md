@@ -1,12 +1,11 @@
 <img src="./header.svg" alt="akiwaneth header image">
 
-Hi, I'm Akiwan. I love building 2D/3D environments and a fan of pixel art! Feel free to explore my projects.
+### I love building 2D/3D environments and a fan of pixel art. Take a look!
 
 | Plataform   |      Rarity      |  Network |
 |----------|:-------------:|------:|
-| <a href="https://opensea.io/account/created" title="Buy on OpenSea" target="_blank"><img style="width:160px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Dark.png" alt="Akiwan Genesis" align="center"/> Akiwan Genesis</a> |  1:1 | Ethereum |
-| <a href="https://opensea.io/account/created" title="Buy on OpenSea" target="_blank"><img style="width:160px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Dark.png" alt="Akiwan Genesis" align="center"/> Akiwan AI</a> |    1:1   |   Polygon |
 | <a href="https://opensea.io/collection/akiwan-profile" title="Buy on OpenSea" target="_blank"><img style="width:160px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Dark.png" alt="Akiwan Genesis" align="center"/> Akiwan Profile | 1:1 |    Polygon |
+| <a href="https://opensea.io/account/created" title="Buy on OpenSea" target="_blank"><img style="width:160px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Dark.png" alt="Akiwan Genesis" align="center"/> Akiwan Genesis (2024)</a> |  1:1 | Ethereum |
 
 <!-- 
 <a href="https://opensea.io/" title="Buy on OpenSea" target="_blank"><img style="width:160px; border-radius:5px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.25);" src="https://storage.googleapis.com/opensea-static/Logomark/Badge%20-%20Available%20On%20-%20Dark.png" alt="Akiwan Genesis" align="center"/>Akiwan Genesis</a>
